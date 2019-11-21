@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://oss.pgyer.com/3df8c41fbb868471c0096f09b67eba16.ipa?auth_key=1574298223-8f790b66993c697cd9b2c901e1dfb359-0-e6243f4fa8bff1472c895bdc9ae34443&response-content-disposition=attachment%3B+filename%3DDriverShellShanXi.ipa</string>
+					<string>http://download-test-lxf.oss-cn-beijing.aliyuncs.com/DriverShellShanXi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -22,13 +22,13 @@
 					<string>http://appicon.pgyer.com/image/view/app_icons/527a62d561c447d51ea78f130057b116/120</string>
 				</dict>
 				<dict>
-                   			<key>kind</key>
-                   			<string>full-size-image</string>
-                   			<key>needs-shine</key>
-                   			<true/>
-                   			<key>url</key>
-                   			<string>http://appicon.pgyer.com/image/view/app_icons/527a62d561c447d51ea78f130057b116/120</string>
-               			</dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://appicon.pgyer.com/image/view/app_icons/527a62d561c447d51ea78f130057b116/120</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
